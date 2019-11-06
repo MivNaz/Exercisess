@@ -1,1 +1,1 @@
-# Exercisess
+# Crud iþlemleriyle ilgili bir uygulamadýr.
